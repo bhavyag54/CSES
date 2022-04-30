@@ -1,1 +1,0 @@
-{"name":"Local: monsters","url":"c:\\Users\\bhavy\\Desktop\\cp\\cses\\monsters.cpp","tests":[{"id":1648109528550,"input":"5 8\n########\n#M..A..#\n#.#.M#.#\n#M#..#..\n#.######","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\bhavy\\Desktop\\cp\\cses\\monsters.cpp","group":"local","local":true}
