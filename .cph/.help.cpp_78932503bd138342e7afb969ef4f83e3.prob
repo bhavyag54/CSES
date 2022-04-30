@@ -1,0 +1,1 @@
+{"name":"Local: help","url":"c:\\Users\\bhavy\\Desktop\\cp\\cses\\help.cpp","tests":[{"id":1647082671859,"input":"4\n4\n6 10 12 8\n6\n5 4 5 4 4 4\n10\n10 10 7 6 7 4 4 5 7 4\n1\n10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\bhavy\\Desktop\\cp\\cses\\help.cpp","group":"local","local":true}

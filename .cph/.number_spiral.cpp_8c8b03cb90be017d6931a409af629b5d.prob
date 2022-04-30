@@ -1,0 +1,1 @@
+{"name":"Local: number_spiral","url":"c:\\Users\\bhavy\\Desktop\\cp\\cses\\number_spiral.cpp","tests":[{"id":1647879313518,"input":"3\n2 3\n2 2\n4 2","output":"8\n3\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\bhavy\\Desktop\\cp\\cses\\number_spiral.cpp","group":"local","local":true}
